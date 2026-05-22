@@ -1,0 +1,32 @@
+Science|Quanti pianeti ci sono nel sistema solare?|6|7|8|9|C
+Science|Qual e' la formula dell'acqua?|H2O2|H2O|HO2|HO|B
+Science|A che temperatura bolle l'acqua?|90|95|100|110|C
+Science|Qual e' il simbolo chimico del ferro?|Fr|Fe|Fi|Fo|B
+Science|Quanti cromosomi ha l'essere umano?|23|44|46|48|C
+Science|Qual e' il pianeta piu' grande del sistema solare?|Terra|Giove|Saturno|Nettuno|B
+Science|Quale gas respiriamo principalmente?|Ossigeno|Azoto|Anidride carbonica|Idrogeno|B
+Science|Come si chiama la galassia in cui viviamo?|Andromeda|Via Lattea|Triangolo|Sombrero|B
+Science|Quale organo pompa il sangue?|Polmone|Fegato|Cuore|Rene|C
+Science|Quale animale depone le uova?|Cane|Gatto|Gallina|Cavallo|C
+
+History|In che anno e' caduto il muro di Berlino?|1985|1987|1989|1991|C
+History|Chi ha dipinto la Gioconda?|Raffaello|Michelangelo|Leonardo|Caravaggio|C
+History|In che anno e' iniziata la Prima Guerra Mondiale?|1912|1914|1916|1918|B
+History|Chi era il primo presidente degli USA?|Lincoln|Jefferson|Washington|Adams|C
+History|In che anno e' arrivato l'uomo sulla luna?|1965|1967|1969|1971|C
+History|Chi ha scoperto l'America?|Colombo|Magellano|Vespucci|Cook|A
+History|In quale paese e' nata la democrazia?|Roma|Atene|Parigi|Londra|B
+History|Chi era Giulio Cesare?|Re|Imperatore|Generale romano|Filosofo|C
+History|In che anno e' finita la Seconda Guerra Mondiale?|1943|1944|1945|1946|C
+History|Chi ha costruito le piramidi?|Greci|Egizi|Romani|Maya|B
+
+Technology|Chi ha fondato Apple?|Bill Gates|Steve Jobs|Elon Musk|Mark Zuckerberg|B
+Technology|Cosa significa CPU?|Computer Power Unit|Central Power Unit|Central Processing Unit|Computer Processing Unit|C
+Technology|In che anno e' nato internet ARPANET?|1969|1975|1983|1991|A
+Technology|Cosa significa RAM?|Read And Memory|Random Access Memory|Rapid Access Memory|Read Access Mode|B
+Technology|Chi ha creato il linguaggio C?|Dennis Ritchie|Bjarne Stroustrup|Linus Torvalds|Ken Thompson|A
+Technology|Quale azienda produce Windows?|Apple|Google|Microsoft|IBM|C
+Technology|Cosa significa USB?|Universal Serial Bus|United System Board|Ultra Speed Bus|Universal System Base|A
+Technology|Quale dispositivo serve per memorizzare dati?|Monitor|Stampante|Hard Disk|Tastiera|C
+Technology|Quale e' il sistema operativo degli iPhone?|Android|iOS|Windows Phone|HarmonyOS|B
+Technology|Chi ha inventato il World Wide Web?|Jobs|Berners-Lee|Gates|Torvalds|B
